@@ -82,6 +82,7 @@
         "footer-0": {
           "type": "logo_social",
           "settings": {
+            "logo": "shopify://shop_images/LOUA.png",
             "desktop_logo_height": 50,
             "container_width": 95
           }
