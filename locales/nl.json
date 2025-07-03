@@ -162,6 +162,140 @@
         "one": "{{ count }} product",
         "other": "{{ count }} producten"
       }
+    },
+    "sorting": {
+      "title": "Soort"
+    },
+    "filters": {
+      "all_tags": "Alle producten",
+      "categories_title": "Categorieën"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Naam",
+      "email": "E-mail",
+      "phone": "Telefoonnummer",
+      "message": "Bericht",
+      "send": "Versturen",
+      "post_success": "Bedankt voor uw bericht. We nemen zo snel mogelijk contact met u op."
+    }
+  },
+  "customer": {
+    "account": {
+      "title": "Mijn account",
+      "details": "Accountgegevens",
+      "view_addresses": "Bekijk adressen",
+      "return": "Terug naar account"
+    },
+    "activate_account": {
+      "title": "Account activeren",
+      "subtext": "Maak uw wachtwoord aan om uw account te activeren.",
+      "password": "Wachtwoord",
+      "password_confirm": "Bevestig wachtwoord",
+      "submit": "Account activeren",
+      "cancel": "Uitnodiging afwijzen"
+    },
+    "addresses": {
+      "title": "Adressen",
+      "default": "Standaard",
+      "add_new": "Adres toevoegen",
+      "edit_address": "Adres bewerken",
+      "first_name": "Voornaam",
+      "last_name": "Achternaam",
+      "company": "Bedrijf",
+      "address1": "Adres1",
+      "address2": "Adres2",
+      "city": "Stad",
+      "country": "Land",
+      "province": "Provincie",
+      "zip": "Postcode",
+      "phone": "Telefoon",
+      "set_default": "Instellen als standaardadres",
+      "add": "Adres toevoegen",
+      "update": "Adres bijwerken",
+      "cancel": "Annuleren",
+      "edit": "Bewerking",
+      "delete": "Verwijderen",
+      "delete_confirm": "Weet u zeker dat u dit adres wilt verwijderen?"
+    },
+    "login": {
+      "email": "E-mail",
+      "password": "Wachtwoord",
+      "forgot_password": "Wachtwoord vergeten?",
+      "sign_in": "Aanmelden",
+      "cancel": "Terug naar winkel",
+      "guest_title": "Ga verder als gast",
+      "guest_continue": "Doorgaan"
+    },
+    "orders": {
+      "title": "Bestelgeschiedenis",
+      "order_number": "Volgorde",
+      "date": "Datum",
+      "payment_status": "Betalingsstatus",
+      "fulfillment_status": "Uitvoeringsstatus",
+      "total": "Totaal",
+      "none": "U heeft nog geen bestelling geplaatst."
+    },
+    "order": {
+      "title": "Bestelling {{ name }}",
+      "date_html": "Geplaatst op {{ date }}",
+      "cancelled_html": "Bestelling geannuleerd op {{ date }}",
+      "cancelled_reason": "Reden: {{ reason }}",
+      "billing_address": "Factuuradres",
+      "payment_status": "Betalingsstatus",
+      "shipping_address": "Verzendadres",
+      "fulfillment_status": "Uitvoeringsstatus",
+      "discount": "Korting",
+      "tax": "Belasting",
+      "price": "Prijs",
+      "quantity": "Hoeveelheid",
+      "total": "Totaal",
+      "fulfilled_at_html": "Vervuld {{ date }}",
+      "subtotal": "Subtotaal"
+    },
+    "recover_password": {
+      "title": "Uw wachtwoord opnieuw instellen",
+      "email": "E-mail",
+      "submit": "Indienen",
+      "cancel": "Annuleren",
+      "subtext": "Wij sturen u een e-mail om uw wachtwoord opnieuw in te stellen.",
+      "success": "We hebben u een e-mail gestuurd met een link om uw wachtwoord te wijzigen."
+    },
+    "reset_password": {
+      "title": "Accountwachtwoord opnieuw instellen",
+      "subtext": "Voer een nieuw wachtwoord in voor {{ email }}",
+      "password": "Wachtwoord",
+      "password_confirm": "Bevestig wachtwoord",
+      "submit": "Wachtwoord opnieuw instellen"
+    },
+    "register": {
+      "title": "Account aanmaken",
+      "first_name": "Voornaam",
+      "last_name": "Achternaam",
+      "email": "E-mail",
+      "password": "Wachtwoord",
+      "submit": "Creëren",
+      "cancel": "Terug naar winkel"
+    }
+  },
+  "home_page": {
+    "onboarding": {
+      "product_title": "Voorbeeldproduct",
+      "product_description": "Dit gedeelte wordt gebruikt om de details van uw product te beschrijven. Vertel klanten over de look, feel en stijl van uw product. Voeg details toe over kleur, gebruikte materialen, maten en waar het is gemaakt.",
+      "collection_title": "Voorbeeldcollectie",
+      "no_content": "Deze sectie bevat momenteel geen content. Voeg content toe aan deze sectie via de zijbalk."
+    }
+  },
+  "layout": {
+    "cart": {
+      "title": "Winkelwagen"
+    },
+    "customer": {
+      "account": "Rekening",
+      "log_out": "Uitloggen",
+      "log_in": "Inloggen",
+      "create_account": "Account aanmaken"
     }
   }
 }
