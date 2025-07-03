@@ -252,7 +252,8 @@
       "quantity": "Hoeveelheid",
       "total": "Totaal",
       "fulfilled_at_html": "Vervuld {{ date }}",
-      "subtotal": "Subtotaal"
+      "subtotal": "Subtotaal",
+      "shipping": "Verzending"
     },
     "recover_password": {
       "title": "Uw wachtwoord opnieuw instellen",
