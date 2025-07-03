@@ -55,8 +55,8 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Hassle-free returns",
-            "link_text": "30-day postage paid returns",
+            "text": "Probleemloos retourneren",
+            "link_text": "30 dagen gratis retourzending",
             "link": ""
           }
         }
