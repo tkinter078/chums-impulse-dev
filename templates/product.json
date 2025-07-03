@@ -32,8 +32,22 @@
         "sales_point": {
           "type": "sales_point",
           "settings": {
-            "icon": "globe",
-            "text": "Free worldwide shipping"
+            "icon": "package",
+            "text": "Snelle Verzending"
+          }
+        },
+        "sales_point_hAwr6n": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "phone",
+            "text": "24/7 Ondersteuning"
+          }
+        },
+        "sales_point_mgTKU3": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "30 dagen GRATIS Retour"
           }
         },
         "inventory_status": {
@@ -49,6 +63,12 @@
             "show_dynamic_checkout": true,
             "surface_pickup_enable": true,
             "show_gift_card_recipient": false
+          }
+        },
+        "custom_RUf94F": {
+          "type": "custom",
+          "settings": {
+            "code": ""
           }
         },
         "description": {
@@ -82,8 +102,11 @@
         "separator",
         "variant_picker",
         "sales_point",
+        "sales_point_hAwr6n",
+        "sales_point_mgTKU3",
         "inventory_status",
         "buy_buttons",
+        "custom_RUf94F",
         "description",
         "tab",
         "contact",
