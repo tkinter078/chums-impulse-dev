@@ -1,0 +1,167 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "map": {
+      "get_directions": "Routebeschrijving",
+      "address_error": "Fout bij het opzoeken van dat adres",
+      "address_no_results": "Geen resultaten voor dat adres",
+      "address_query_limit_html": "U hebt de gebruikslimiet van de Google API overschreden. Overweeg een upgrade naar een <a href=\"https://developers.google.com/maps/premium/usage-limits\">Premium-abonnement</a> .",
+      "auth_error_html": "Er is een probleem opgetreden bij het verifiëren van uw Google Maps-account. Maak en activeer de <a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">JavaScript API-</a> en <a href=\"https://developers.google.com/maps/documentation/geocoding/get-api-key\">Geocoding API-</a> machtigingen van uw app."
+    },
+    "slideshow": {
+      "play_slideshow": "Diavoorstelling afspelen",
+      "pause_slideshow": "Diavoorstelling pauzeren"
+    }
+  },
+  "general": {
+    "404": {
+      "title": "404 Pagina niet gevonden",
+      "subtext_html": "<p>De pagina die u zocht, bestaat niet.</p><p> <a href=\"&lt;span%20class=\" notranslate>{{ url }} '&gt;Verder winkelen</a></p>"
+    },
+    "accessibility": {
+      "skip_to_content": "Ga naar inhoud",
+      "close_modal": "Sluiten (esc)",
+      "close": "Dichtbij",
+      "learn_more": "Meer informatie"
+    },
+    "meta": {
+      "tags": "Gelabeld met \" {{ tags }} \"",
+      "page": "Pagina {{ page }}"
+    },
+    "pagination": {
+      "previous": "Vorig",
+      "next": "Volgende"
+    },
+    "password_page": {
+      "login_form_heading": "Ga naar de winkel met behulp van een wachtwoord",
+      "login_form_password_label": "Wachtwoord",
+      "login_form_password_placeholder": "Uw wachtwoord",
+      "login_form_submit": "Binnenkomen",
+      "signup_form_email_label": "E-mail",
+      "signup_form_success": "Wij sturen u vlak voor opening een e-mail!",
+      "admin_link_html": "Winkeleigenaar? <a href=\"/admin\" class=\"text-link\">Log hier in</a>",
+      "password_link": "Wachtwoord",
+      "powered_by_shopify_html": "Deze winkel wordt aangestuurd door {{ shopify }}"
+    },
+    "breadcrumbs": {
+      "home": "Thuis",
+      "home_link_title": "Terug naar de voorpagina"
+    },
+    "social": {
+      "share_on_facebook": "Deel",
+      "share_on_twitter": "Tweeten",
+      "share_on_pinterest": "Vastzetten",
+      "alt_text": {
+        "share_on_facebook": "Delen op Facebook",
+        "share_on_twitter": "Tweet op Twitter",
+        "share_on_pinterest": "Pin op Pinterest"
+      }
+    },
+    "newsletter_form": {
+      "newsletter_email": "Voer uw e-mailadres in",
+      "newsletter_confirmation": "Bedankt voor uw inschrijving",
+      "submit": "Abonneren"
+    },
+    "search": {
+      "view_more": "Toon alle resultaten voor \" {{ terms }} \"",
+      "products": "Producten",
+      "suggestions": "Suggesties",
+      "collections": "Collecties",
+      "pages": "Pagina's",
+      "articles": "Artikelen",
+      "no_results_html": "Zoeken naar \" {{ terms }} \"",
+      "results_for_html": "Uw zoekopdracht naar \" {{ terms }} \" leverde het volgende op:",
+      "title": "Zoekopdracht",
+      "placeholder": "Zoekopdracht",
+      "submit": "Zoekopdracht",
+      "cancel": "Annuleren",
+      "search_title": "Meest gezocht",
+      "result_count": {
+        "one": "{{ count }} resultaat",
+        "other": "{{ count }} resultaten"
+      }
+    },
+    "drawers": {
+      "navigation": "Site navigatie",
+      "close_menu": "Menu sluiten",
+      "expand_submenu": "Submenu uitvouwen",
+      "collapse_submenu": "Submenu samenvouwen"
+    },
+    "currency": {
+      "dropdown_label": "Munteenheid"
+    },
+    "language": {
+      "dropdown_label": "Taal"
+    }
+  },
+  "blogs": {
+    "article": {
+      "view_all": "Bekijk alles",
+      "tags": "Labels",
+      "read_more": "Lees verder",
+      "back_to_blog": "Terug naar {{ title }}"
+    },
+    "comments": {
+      "title": "Laat een reactie achter",
+      "name": "Naam",
+      "email": "E-mail",
+      "message": "Bericht",
+      "post": "Plaats een reactie",
+      "moderated": "Let op: reacties moeten worden goedgekeurd voordat ze worden gepubliceerd",
+      "success_moderated": "Je reactie is succesvol geplaatst. We zullen deze binnenkort publiceren, aangezien onze blog gemodereerd wordt.",
+      "success": "Je reactie is succesvol geplaatst! Bedankt!",
+      "with_count": {
+        "one": "{{ count }} commentaar",
+        "other": "{{ count }} reacties"
+      }
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Winkelwagen",
+      "remove": "Verwijderen",
+      "note": "Bestelnotitie",
+      "subtotal": "Subtotaal",
+      "discounts": "Kortingen",
+      "shipping_at_checkout": "Verzendkosten, belastingen en kortingscodes worden berekend bij het afrekenen.",
+      "update": "Winkelwagen bijwerken",
+      "checkout": "Uitchecken",
+      "empty": "Uw winkelwagen is momenteel leeg.",
+      "continue_browsing_html": "<a href=\"&lt;span%20class=\" notranslate>{{ url }} '&gt;Verder winkelen</a>",
+      "close_cart": "Winkelwagen sluiten",
+      "reduce_quantity": "Verminder het aantal artikelen met één",
+      "increase_quantity": "Verhoog het aantal artikelen met één",
+      "terms": "Ik ga akkoord met de algemene voorwaarden",
+      "terms_html": "Ik ga akkoord met de <a href=\"&lt;span%20class=\" notranslate>{{ url }} ' target='_blank'&gt;algemene voorwaarden</a>",
+      "terms_confirm": "U moet akkoord gaan met de verkoopvoorwaarden om te kunnen afrekenen",
+      "max_quantity": "U kunt maximaal {{ quantity }} van {{ title }} in uw winkelwagen hebben."
+    },
+    "label": {
+      "price": "Prijs",
+      "quantity": "Hoeveelheid",
+      "total": "Totaal"
+    }
+  },
+  "collections": {
+    "general": {
+      "catalog_title": "Catalogus",
+      "all_of_collection": "Bekijk alles",
+      "view_all_products_html": "Bekijk alles<br> {{ count }} producten",
+      "see_more": "Meer weergeven",
+      "see_less": "Minder weergeven",
+      "no_matches": "Helaas, er zijn geen producten in deze collectie.",
+      "items_with_count": {
+        "one": "{{ count }} product",
+        "other": "{{ count }} producten"
+      }
+    }
+  }
+}
