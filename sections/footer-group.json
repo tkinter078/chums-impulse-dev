@@ -78,20 +78,11 @@
             "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
             "container_width": 33
           }
-        },
-        "footer-0": {
-          "type": "logo_social",
-          "settings": {
-            "logo": "shopify://shop_images/LOUA.png",
-            "desktop_logo_height": 50,
-            "container_width": 95
-          }
         }
       },
       "block_order": [
         "footer-1",
-        "footer2",
-        "footer-0"
+        "footer2"
       ],
       "settings": {
         "show_locale_selector": true,
