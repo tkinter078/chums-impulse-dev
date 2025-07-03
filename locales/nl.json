@@ -297,5 +297,79 @@
       "log_in": "Inloggen",
       "create_account": "Account aanmaken"
     }
+  },
+  "products": {
+    "general": {
+      "color_swatch_trigger": "Kleur",
+      "size_trigger": "Maat",
+      "size_chart": "Maattabel",
+      "save_html": "Bespaar {{ saved_amount }}",
+      "collection_return": "Terug naar {{ collection }}",
+      "next_product": "Volgende: {{ title }}",
+      "sale": "Verkoop",
+      "sale_price": "Verkoopprijs",
+      "regular_price": "Normale prijs",
+      "from_text_html": "vanaf {{ price }}",
+      "recent_products": "Recent bekeken",
+      "reviews": "Beoordelingen"
+    },
+    "product": {
+      "description": "Beschrijving",
+      "in_stock_label": "Op voorraad, klaar voor verzending",
+      "stock_label": {
+        "one": "Lage voorraad - {{ count }} item resterend",
+        "other": "Lage voorraad - {{ count }} items over"
+      },
+      "sold_out": "Uitverkocht",
+      "unavailable": "Niet beschikbaar",
+      "quantity": "Hoeveelheid",
+      "add_to_cart": "In winkelwagen",
+      "preorder": "Vooraf bestellen",
+      "include_taxes": "Inclusief belasting.",
+      "shipping_policy_html": "<a href=\"&lt;span%20class=\" notranslate>Verzendkosten</a> worden berekend bij het afrekenen.",
+      "will_not_ship_until": "Klaar voor verzending {{ date }}",
+      "will_be_in_stock_after": "Weer op voorraad {{ date }}",
+      "waiting_for_stock": "Inventaris onderweg",
+      "view_in_space": "Uitzicht in uw ruimte",
+      "view_in_space_label": "Bekijk in uw ruimte, laadt item in augmented reality-venster"
+    }
+  },
+  "store_availability": {
+    "general": {
+      "view_store_info": "Bekijk winkelinformatie",
+      "check_other_stores": "Controleer de beschikbaarheid bij andere winkels",
+      "pick_up_available": "Afhalen mogelijk",
+      "pick_up_currently_unavailable": "Afhalen momenteel niet beschikbaar",
+      "pick_up_available_at_html": "Afhalen mogelijk bij <strong>{{ location_name }}</strong>",
+      "pick_up_unavailable_at_html": "Afhalen momenteel niet mogelijk bij <strong>{{ location_name }}</strong>"
+    }
+  },
+  "gift_cards": {
+    "issued": {
+      "title_html": "Hier is uw {{ value }} cadeaubon voor {{ shop }} !",
+      "subtext": "Hier is uw cadeaubon!",
+      "disabled": "Gehandicapt",
+      "expired": "Verlopen op {{ expiry }}",
+      "active": "Verloopt op {{ expiry }}",
+      "redeem": "Gebruik deze code bij het afrekenen om uw cadeaubon te verzilveren",
+      "shop_link": "Begin met winkelen",
+      "print": "Afdrukken",
+      "add_to_apple_wallet": "Toevoegen aan Apple Wallet"
+    }
+  },
+  "recipient": {
+    "form": {
+      "checkbox": "Ik wil dit als cadeau versturen",
+      "email_label": "E-mailadres van de ontvanger",
+      "email_label_optional": "E-mailadres van de ontvanger (optioneel)",
+      "email": "E-mail",
+      "name_label": "Naam van de ontvanger (optioneel)",
+      "name": "Naam",
+      "message_label": "Bericht (optioneel)",
+      "message": "Bericht",
+      "max_characters": "{{ max_chars }} maximaal",
+      "send_on": "JJJJ-MM-DD",
+      "send_on_label": "Doorsturen (optioneel)"
+    }
   }
 }
