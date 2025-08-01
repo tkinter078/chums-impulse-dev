@@ -36,7 +36,7 @@
         "sticky_collection": false,
         "toolbar_menu": "",
         "toolbar_social": true,
-        "show_locale_selector": true,
+        "show_locale_selector": false,
         "show_currency_selector": true,
         "show_currency_flags": true
       }
@@ -59,11 +59,20 @@
             "link_text": "30 dagen gratis retourzending",
             "link": ""
           }
+        },
+        "announcement_BeV4rP": {
+          "type": "announcement",
+          "settings": {
+            "text": "Voor 23:59 Besteld",
+            "link_text": "Morgen verzonden",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "announcement-0",
-        "announcement-1"
+        "announcement-1",
+        "announcement_BeV4rP"
       ],
       "settings": {
         "announcement_compact": true
