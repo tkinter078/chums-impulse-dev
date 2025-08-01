@@ -74,8 +74,8 @@
           "type": "newsletter",
           "settings": {
             "show_footer_title": true,
-            "title": "Sign up and save",
-            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
+            "title": "Word lid van onze VIP Club",
+            "text": "<p>Schrijf je in voor onze <strong>VIP Club</strong> en profiteer van exclusieve voordelen! Ontvang als eerste updates over nieuwe producten, geheime kortingsacties, speciale ledenaanbiedingen én een welkomstkorting op je eerste bestelling.</p>",
             "container_width": 33
           }
         }

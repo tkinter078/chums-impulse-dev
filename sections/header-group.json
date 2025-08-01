@@ -48,7 +48,7 @@
           "type": "announcement",
           "settings": {
             "text": "Gratis Verzending",
-            "link_text": "Op bestellingen boven de €50",
+            "link_text": "Op alle bestellingen",
             "link": ""
           }
         },
@@ -56,7 +56,7 @@
           "type": "announcement",
           "settings": {
             "text": "Probleemloos retourneren",
-            "link_text": "30 dagen gratis retourzending",
+            "link_text": "14 dagen gratis retourzending",
             "link": ""
           }
         },

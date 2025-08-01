@@ -201,6 +201,57 @@
         "show_button": true,
         "lazyload_images": true
       }
+    },
+    "faq_FgikGU": {
+      "type": "faq",
+      "blocks": {
+        "question_nc8QEW": {
+          "type": "question",
+          "settings": {
+            "title": "Kan ik mijn bestelling volgen?",
+            "text": "<p>Zeker! Zodra je pakket ons magazijn heeft verlaten, ontvang je automatisch een e-mail met een track & trace-link. Hiermee kun je jouw bestelling op elk moment volgen en precies zien wanneer deze wordt geleverd.</p>"
+          }
+        },
+        "question_4cryzL": {
+          "type": "question",
+          "settings": {
+            "title": "Wat zijn de verzendkosten?",
+            "text": "<p>Bij ons profiteer je van <strong>gratis verzending op alle bestellingen binnen Nederland en België</strong> – ongeacht het orderbedrag. Geen verborgen kosten of kleine lettertjes: gewoon zorgeloos shoppen met gratis bezorging aan huis.</p>"
+          }
+        },
+        "question_HiUGw3": {
+          "type": "question",
+          "settings": {
+            "title": "Welke betaalmethoden accepteren jullie?",
+            "text": "<p>Je kunt veilig en snel betalen via iDEAL, Bancontact, PayPal, creditcard (Visa & MasterCard). Al onze betalingen verlopen via een beveiligde omgeving.</p>"
+          }
+        },
+        "question_dKBFdV": {
+          "type": "question",
+          "settings": {
+            "title": "Kan ik een artikel retourneren als ik niet tevreden ben?",
+            "text": "<p>Natuurlijk. Je hebt 14 dagen bedenktijd na ontvangst van je bestelling. Binnen die periode kun je het artikel zonder opgaaf van reden retourneren, zolang het in originele staat en verpakking is. Je krijgt dan je geld teruggestort!</p>"
+          }
+        },
+        "question_Qew9HQ": {
+          "type": "question",
+          "settings": {
+            "title": "Hoe kan ik een retour aanmelden?",
+            "text": "<p>Stuur een e-mail naar onze klantenservice met je ordernummer en reden van retour. Wij sturen je dan de retourinstructies toe. Zorg ervoor dat je het pakket goed verpakt terugstuurt. Na ontvangst verwerken we de retour binnen 5 werkdagen.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_nc8QEW",
+        "question_4cryzL",
+        "question_HiUGw3",
+        "question_dKBFdV",
+        "question_Qew9HQ"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "title": "Veelgestelde vragen"
+      }
     }
   },
   "order": [
@@ -210,6 +261,7 @@
     "featured_collection_KDdqXp",
     "testimonials_m9PdN7",
     "text_and_image_nYrVtF",
-    "map_Qr87d8"
+    "map_Qr87d8",
+    "faq_FgikGU"
   ]
 }
